@@ -1,5 +1,5 @@
 """
-This problem was extracted on 2026-11-05 11:24 (UTC+0) from LeetCode at https://leetcode.com/problems/find-the-distance-value-between-two-arrays/.
+This problem was extracted on 2026-11-05 14:08 (UTC-3) from LeetCode at https://leetcode.com/problems/find-the-distance-value-between-two-arrays/.
 You can check the full problem description there.
 Problem Title:
     Find the Distance Value Between Two Arrays
@@ -31,5 +31,6 @@ if __name__ == "__main__":
 
 """
 Notes:
-    -
+    - Type your approach, insights and learnings here.
 """
+# Add a line reading "# Solved" below when you finish the solution.
