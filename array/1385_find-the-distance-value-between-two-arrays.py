@@ -11,7 +11,16 @@ Tags:
 
 class Solution:
     def findTheDistanceValue(self, arr1: list[int], arr2: list[int], d: int) -> int:
-        pass
+        ans = 0
+
+        for i in arr1:
+            for j in arr2:
+                if abs(i - j) <= d:
+                    break
+            else:
+                ans += 1
+
+        return ans
 
 if __name__ == "__main__":
     solution = Solution()
@@ -31,6 +40,14 @@ if __name__ == "__main__":
 
 """
 Notes:
-    - Type your approach, insights and learnings here.
+    - Took me a long time to understand this problem... and I didn't by myself. One of the first comments 
+"You're supposed to count the elements in arr1 that do NOT yield a value <= d when any element 
+from arr2 is subtracted from it." from user Eti-ini Effiong-Robert
+helped me to figure it out.
+    - Once I understood the problem it was very simple, compare every element on array1 against array2, if
+absolute value is higher than d, it isn't valid anymore, so we break the loop and go to the next
+if all elements on array2 are valid, then we increment our ans variable by 1.
+
 """
 # Add a line reading "# Solved" below when you finish the solution.
+# Solved
