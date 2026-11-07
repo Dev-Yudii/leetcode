@@ -5,6 +5,7 @@
 
 | Collected | ID | Title | Difficulty | Topics | Waiting | File |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | today | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
+| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 1 day | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
+| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | today | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
 
-1 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
+2 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
