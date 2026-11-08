@@ -10,3 +10,5 @@
 | 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | today | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
 
 3 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
+
+The challenges already solved are in [COMPLETED.md](COMPLETED.md).
