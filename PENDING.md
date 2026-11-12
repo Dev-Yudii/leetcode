@@ -5,13 +5,14 @@
 
 | Collected | ID | Title | Difficulty | Topics | Waiting | File |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 5 days | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
-| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | 4 days | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
-| 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | 3 days | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
-| 2026-11-09 | 1606 | Find Servers That Handled Most Number of Requests | Hard | Array, Heap (Priority Queue), Ordered Set, Simulation | 2 days | [array/1606_find-servers-that-handled-most-number-of-requests.py](array/1606_find-servers-that-handled-most-number-of-requests.py) |
-| 2026-11-10 | 3693 | Climbing Stairs II | Medium | Array, Dynamic Programming | 1 day | [array/3693_climbing-stairs-ii.py](array/3693_climbing-stairs-ii.py) |
-| 2026-11-11 | 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy, Math | today | [greedy/3789_minimum-cost-to-acquire-required-items.py](greedy/3789_minimum-cost-to-acquire-required-items.py) |
+| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 6 days | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
+| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | 5 days | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
+| 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | 4 days | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
+| 2026-11-09 | 1606 | Find Servers That Handled Most Number of Requests | Hard | Array, Heap (Priority Queue), Ordered Set, Simulation | 3 days | [array/1606_find-servers-that-handled-most-number-of-requests.py](array/1606_find-servers-that-handled-most-number-of-requests.py) |
+| 2026-11-10 | 3693 | Climbing Stairs II | Medium | Array, Dynamic Programming | 2 days | [array/3693_climbing-stairs-ii.py](array/3693_climbing-stairs-ii.py) |
+| 2026-11-11 | 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy, Math | 1 day | [greedy/3789_minimum-cost-to-acquire-required-items.py](greedy/3789_minimum-cost-to-acquire-required-items.py) |
+| 2026-11-12 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array | today | [array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py](array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
 
-6 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
+7 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
 
 The challenges already solved are in [COMPLETED.md](COMPLETED.md).
