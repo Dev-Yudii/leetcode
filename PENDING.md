@@ -5,15 +5,16 @@
 
 | Collected | ID | Title | Difficulty | Topics | Waiting | File |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 7 days | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
-| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | 6 days | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
-| 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | 5 days | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
-| 2026-11-09 | 1606 | Find Servers That Handled Most Number of Requests | Hard | Array, Heap (Priority Queue), Ordered Set, Simulation | 4 days | [array/1606_find-servers-that-handled-most-number-of-requests.py](array/1606_find-servers-that-handled-most-number-of-requests.py) |
-| 2026-11-10 | 3693 | Climbing Stairs II | Medium | Array, Dynamic Programming | 3 days | [array/3693_climbing-stairs-ii.py](array/3693_climbing-stairs-ii.py) |
-| 2026-11-11 | 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy, Math | 2 days | [greedy/3789_minimum-cost-to-acquire-required-items.py](greedy/3789_minimum-cost-to-acquire-required-items.py) |
-| 2026-11-12 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array | 1 day | [array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py](array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
-| 2026-11-13 | 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Array, Monotonic Queue, Monotonic Stack, Queue, Segment Tree, Sliding Window, Stack | today | [array/3420_count-non-decreasing-subarrays-after-k-operations.py](array/3420_count-non-decreasing-subarrays-after-k-operations.py) |
+| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 8 days | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
+| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | 7 days | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
+| 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | 6 days | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
+| 2026-11-09 | 1606 | Find Servers That Handled Most Number of Requests | Hard | Array, Heap (Priority Queue), Ordered Set, Simulation | 5 days | [array/1606_find-servers-that-handled-most-number-of-requests.py](array/1606_find-servers-that-handled-most-number-of-requests.py) |
+| 2026-11-10 | 3693 | Climbing Stairs II | Medium | Array, Dynamic Programming | 4 days | [array/3693_climbing-stairs-ii.py](array/3693_climbing-stairs-ii.py) |
+| 2026-11-11 | 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy, Math | 3 days | [greedy/3789_minimum-cost-to-acquire-required-items.py](greedy/3789_minimum-cost-to-acquire-required-items.py) |
+| 2026-11-12 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array | 2 days | [array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py](array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
+| 2026-11-13 | 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Array, Monotonic Queue, Monotonic Stack, Queue, Segment Tree, Sliding Window, Stack | 1 day | [array/3420_count-non-decreasing-subarrays-after-k-operations.py](array/3420_count-non-decreasing-subarrays-after-k-operations.py) |
+| 2026-11-14 | 3364 | Minimum Positive Sum Subarray  | Easy | Array, Prefix Sum, Sliding Window | today | [array/3364_minimum-positive-sum-subarray.py](array/3364_minimum-positive-sum-subarray.py) |
 
-8 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
+9 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
 
 The challenges already solved are in [COMPLETED.md](COMPLETED.md).
