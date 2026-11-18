@@ -5,19 +5,20 @@
 
 | Collected | ID | Title | Difficulty | Topics | Waiting | File |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 11 days | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
-| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | 10 days | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
-| 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | 9 days | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
-| 2026-11-09 | 1606 | Find Servers That Handled Most Number of Requests | Hard | Array, Heap (Priority Queue), Ordered Set, Simulation | 8 days | [array/1606_find-servers-that-handled-most-number-of-requests.py](array/1606_find-servers-that-handled-most-number-of-requests.py) |
-| 2026-11-10 | 3693 | Climbing Stairs II | Medium | Array, Dynamic Programming | 7 days | [array/3693_climbing-stairs-ii.py](array/3693_climbing-stairs-ii.py) |
-| 2026-11-11 | 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy, Math | 6 days | [greedy/3789_minimum-cost-to-acquire-required-items.py](greedy/3789_minimum-cost-to-acquire-required-items.py) |
-| 2026-11-12 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array | 5 days | [array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py](array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
-| 2026-11-13 | 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Array, Monotonic Queue, Monotonic Stack, Queue, Segment Tree, Sliding Window, Stack | 4 days | [array/3420_count-non-decreasing-subarrays-after-k-operations.py](array/3420_count-non-decreasing-subarrays-after-k-operations.py) |
-| 2026-11-14 | 3364 | Minimum Positive Sum Subarray  | Easy | Array, Prefix Sum, Sliding Window | 3 days | [array/3364_minimum-positive-sum-subarray.py](array/3364_minimum-positive-sum-subarray.py) |
-| 2026-11-15 | 1524 | Number of Sub-arrays With Odd Sum | Medium | Array, Dynamic Programming, Math, Prefix Sum | 2 days | [array/1524_number-of-sub-arrays-with-odd-sum.py](array/1524_number-of-sub-arrays-with-odd-sum.py) |
-| 2026-11-16 | 2243 | Calculate Digit Sum of a String | Easy | Simulation, String | 1 day | [simulation/2243_calculate-digit-sum-of-a-string.py](simulation/2243_calculate-digit-sum-of-a-string.py) |
-| 2026-11-17 | 2911 | Minimum Changes to Make K Semi-palindromes | Hard | Dynamic Programming, String, Two Pointers | today | [dynamic_programming/2911_minimum-changes-to-make-k-semi-palindromes.py](dynamic_programming/2911_minimum-changes-to-make-k-semi-palindromes.py) |
+| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 12 days | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
+| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | 11 days | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
+| 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | 10 days | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
+| 2026-11-09 | 1606 | Find Servers That Handled Most Number of Requests | Hard | Array, Heap (Priority Queue), Ordered Set, Simulation | 9 days | [array/1606_find-servers-that-handled-most-number-of-requests.py](array/1606_find-servers-that-handled-most-number-of-requests.py) |
+| 2026-11-10 | 3693 | Climbing Stairs II | Medium | Array, Dynamic Programming | 8 days | [array/3693_climbing-stairs-ii.py](array/3693_climbing-stairs-ii.py) |
+| 2026-11-11 | 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy, Math | 7 days | [greedy/3789_minimum-cost-to-acquire-required-items.py](greedy/3789_minimum-cost-to-acquire-required-items.py) |
+| 2026-11-12 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array | 6 days | [array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py](array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
+| 2026-11-13 | 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Array, Monotonic Queue, Monotonic Stack, Queue, Segment Tree, Sliding Window, Stack | 5 days | [array/3420_count-non-decreasing-subarrays-after-k-operations.py](array/3420_count-non-decreasing-subarrays-after-k-operations.py) |
+| 2026-11-14 | 3364 | Minimum Positive Sum Subarray  | Easy | Array, Prefix Sum, Sliding Window | 4 days | [array/3364_minimum-positive-sum-subarray.py](array/3364_minimum-positive-sum-subarray.py) |
+| 2026-11-15 | 1524 | Number of Sub-arrays With Odd Sum | Medium | Array, Dynamic Programming, Math, Prefix Sum | 3 days | [array/1524_number-of-sub-arrays-with-odd-sum.py](array/1524_number-of-sub-arrays-with-odd-sum.py) |
+| 2026-11-16 | 2243 | Calculate Digit Sum of a String | Easy | Simulation, String | 2 days | [simulation/2243_calculate-digit-sum-of-a-string.py](simulation/2243_calculate-digit-sum-of-a-string.py) |
+| 2026-11-17 | 2911 | Minimum Changes to Make K Semi-palindromes | Hard | Dynamic Programming, String, Two Pointers | 1 day | [dynamic_programming/2911_minimum-changes-to-make-k-semi-palindromes.py](dynamic_programming/2911_minimum-changes-to-make-k-semi-palindromes.py) |
+| 2026-11-18 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | Medium | String | today | [string/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py](string/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
 
-12 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
+13 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
 
 The challenges already solved are in [COMPLETED.md](COMPLETED.md).
