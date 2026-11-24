@@ -5,25 +5,26 @@
 
 | Collected | ID | Title | Difficulty | Topics | Waiting | File |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 17 days | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
-| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | 16 days | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
-| 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | 15 days | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
-| 2026-11-09 | 1606 | Find Servers That Handled Most Number of Requests | Hard | Array, Heap (Priority Queue), Ordered Set, Simulation | 14 days | [array/1606_find-servers-that-handled-most-number-of-requests.py](array/1606_find-servers-that-handled-most-number-of-requests.py) |
-| 2026-11-10 | 3693 | Climbing Stairs II | Medium | Array, Dynamic Programming | 13 days | [array/3693_climbing-stairs-ii.py](array/3693_climbing-stairs-ii.py) |
-| 2026-11-11 | 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy, Math | 12 days | [greedy/3789_minimum-cost-to-acquire-required-items.py](greedy/3789_minimum-cost-to-acquire-required-items.py) |
-| 2026-11-12 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array | 11 days | [array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py](array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
-| 2026-11-13 | 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Array, Monotonic Queue, Monotonic Stack, Queue, Segment Tree, Sliding Window, Stack | 10 days | [array/3420_count-non-decreasing-subarrays-after-k-operations.py](array/3420_count-non-decreasing-subarrays-after-k-operations.py) |
-| 2026-11-14 | 3364 | Minimum Positive Sum Subarray  | Easy | Array, Prefix Sum, Sliding Window | 9 days | [array/3364_minimum-positive-sum-subarray.py](array/3364_minimum-positive-sum-subarray.py) |
-| 2026-11-15 | 1524 | Number of Sub-arrays With Odd Sum | Medium | Array, Dynamic Programming, Math, Prefix Sum | 8 days | [array/1524_number-of-sub-arrays-with-odd-sum.py](array/1524_number-of-sub-arrays-with-odd-sum.py) |
-| 2026-11-16 | 2243 | Calculate Digit Sum of a String | Easy | Simulation, String | 7 days | [simulation/2243_calculate-digit-sum-of-a-string.py](simulation/2243_calculate-digit-sum-of-a-string.py) |
-| 2026-11-17 | 2911 | Minimum Changes to Make K Semi-palindromes | Hard | Dynamic Programming, String, Two Pointers | 6 days | [dynamic_programming/2911_minimum-changes-to-make-k-semi-palindromes.py](dynamic_programming/2911_minimum-changes-to-make-k-semi-palindromes.py) |
-| 2026-11-18 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | Medium | String | 5 days | [string/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py](string/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
-| 2026-11-19 | 2567 | Minimum Score by Changing Two Elements | Medium | Array, Greedy, Sorting | 4 days | [array/2567_minimum-score-by-changing-two-elements.py](array/2567_minimum-score-by-changing-two-elements.py) |
-| 2026-11-20 | 3041 | Maximize Consecutive Elements in an Array After Modification | Hard | Array, Dynamic Programming, Sorting | 3 days | [array/3041_maximize-consecutive-elements-in-an-array-after-modification.py](array/3041_maximize-consecutive-elements-in-an-array-after-modification.py) |
-| 2026-11-21 | 3331 | Find Subtree Sizes After Changes | Medium | Array, Depth-First Search, Hash Table, String, Tree | 2 days | [array/3331_find-subtree-sizes-after-changes.py](array/3331_find-subtree-sizes-after-changes.py) |
-| 2026-11-22 | 2124 | Check if All A's Appears Before All B's | Easy | String | 1 day | [string/2124_check-if-all-as-appears-before-all-bs.py](string/2124_check-if-all-as-appears-before-all-bs.py) |
-| 2026-11-23 | 1352 | Product of the Last K Numbers | Medium | Array, Data Stream, Design, Math, Prefix Sum | today | [array/1352_product-of-the-last-k-numbers.py](array/1352_product-of-the-last-k-numbers.py) |
+| 2026-11-06 | 2747 | Count Zero Request Servers | Medium | Array, Hash Table, Sliding Window, Sorting | 18 days | [array/2747_count-zero-request-servers.py](array/2747_count-zero-request-servers.py) |
+| 2026-11-07 | 1882 | Process Tasks Using Servers | Medium | Array, Heap (Priority Queue) | 17 days | [array/1882_process-tasks-using-servers.py](array/1882_process-tasks-using-servers.py) |
+| 2026-11-08 | 1267 | Count Servers that Communicate | Medium | Array, Breadth-First Search, Counting, Depth-First Search, Matrix, Union-Find | 16 days | [array/1267_count-servers-that-communicate.py](array/1267_count-servers-that-communicate.py) |
+| 2026-11-09 | 1606 | Find Servers That Handled Most Number of Requests | Hard | Array, Heap (Priority Queue), Ordered Set, Simulation | 15 days | [array/1606_find-servers-that-handled-most-number-of-requests.py](array/1606_find-servers-that-handled-most-number-of-requests.py) |
+| 2026-11-10 | 3693 | Climbing Stairs II | Medium | Array, Dynamic Programming | 14 days | [array/3693_climbing-stairs-ii.py](array/3693_climbing-stairs-ii.py) |
+| 2026-11-11 | 3789 | Minimum Cost to Acquire Required Items | Medium | Greedy, Math | 13 days | [greedy/3789_minimum-cost-to-acquire-required-items.py](greedy/3789_minimum-cost-to-acquire-required-items.py) |
+| 2026-11-12 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array | 12 days | [array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py](array/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
+| 2026-11-13 | 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Array, Monotonic Queue, Monotonic Stack, Queue, Segment Tree, Sliding Window, Stack | 11 days | [array/3420_count-non-decreasing-subarrays-after-k-operations.py](array/3420_count-non-decreasing-subarrays-after-k-operations.py) |
+| 2026-11-14 | 3364 | Minimum Positive Sum Subarray  | Easy | Array, Prefix Sum, Sliding Window | 10 days | [array/3364_minimum-positive-sum-subarray.py](array/3364_minimum-positive-sum-subarray.py) |
+| 2026-11-15 | 1524 | Number of Sub-arrays With Odd Sum | Medium | Array, Dynamic Programming, Math, Prefix Sum | 9 days | [array/1524_number-of-sub-arrays-with-odd-sum.py](array/1524_number-of-sub-arrays-with-odd-sum.py) |
+| 2026-11-16 | 2243 | Calculate Digit Sum of a String | Easy | Simulation, String | 8 days | [simulation/2243_calculate-digit-sum-of-a-string.py](simulation/2243_calculate-digit-sum-of-a-string.py) |
+| 2026-11-17 | 2911 | Minimum Changes to Make K Semi-palindromes | Hard | Dynamic Programming, String, Two Pointers | 7 days | [dynamic_programming/2911_minimum-changes-to-make-k-semi-palindromes.py](dynamic_programming/2911_minimum-changes-to-make-k-semi-palindromes.py) |
+| 2026-11-18 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | Medium | String | 6 days | [string/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py](string/2914_minimum-number-of-changes-to-make-binary-string-beautiful.py) |
+| 2026-11-19 | 2567 | Minimum Score by Changing Two Elements | Medium | Array, Greedy, Sorting | 5 days | [array/2567_minimum-score-by-changing-two-elements.py](array/2567_minimum-score-by-changing-two-elements.py) |
+| 2026-11-20 | 3041 | Maximize Consecutive Elements in an Array After Modification | Hard | Array, Dynamic Programming, Sorting | 4 days | [array/3041_maximize-consecutive-elements-in-an-array-after-modification.py](array/3041_maximize-consecutive-elements-in-an-array-after-modification.py) |
+| 2026-11-21 | 3331 | Find Subtree Sizes After Changes | Medium | Array, Depth-First Search, Hash Table, String, Tree | 3 days | [array/3331_find-subtree-sizes-after-changes.py](array/3331_find-subtree-sizes-after-changes.py) |
+| 2026-11-22 | 2124 | Check if All A's Appears Before All B's | Easy | String | 2 days | [string/2124_check-if-all-as-appears-before-all-bs.py](string/2124_check-if-all-as-appears-before-all-bs.py) |
+| 2026-11-23 | 1352 | Product of the Last K Numbers | Medium | Array, Data Stream, Design, Math, Prefix Sum | 1 day | [array/1352_product-of-the-last-k-numbers.py](array/1352_product-of-the-last-k-numbers.py) |
+| 2026-11-24 | 3411 | Maximum Subarray With Equal Products | Easy | Array, Enumeration, Math, Number Theory, Sliding Window | today | [array/3411_maximum-subarray-with-equal-products.py](array/3411_maximum-subarray-with-equal-products.py) |
 
-18 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
+19 challenge(s) waiting. Solve one, add the `# Solved` line at the end of the file, and the next sync sends it and closes it.
 
 The challenges already solved are in [COMPLETED.md](COMPLETED.md).
